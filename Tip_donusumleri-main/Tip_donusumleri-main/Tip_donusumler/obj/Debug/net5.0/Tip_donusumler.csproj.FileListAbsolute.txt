@@ -1,0 +1,16 @@
+C:\Users\kadir\source\repos\Tip_donusumler\bin\Debug\net5.0\Tip_donusumler.exe
+C:\Users\kadir\source\repos\Tip_donusumler\bin\Debug\net5.0\Tip_donusumler.deps.json
+C:\Users\kadir\source\repos\Tip_donusumler\bin\Debug\net5.0\Tip_donusumler.runtimeconfig.json
+C:\Users\kadir\source\repos\Tip_donusumler\bin\Debug\net5.0\Tip_donusumler.runtimeconfig.dev.json
+C:\Users\kadir\source\repos\Tip_donusumler\bin\Debug\net5.0\Tip_donusumler.dll
+C:\Users\kadir\source\repos\Tip_donusumler\bin\Debug\net5.0\ref\Tip_donusumler.dll
+C:\Users\kadir\source\repos\Tip_donusumler\bin\Debug\net5.0\Tip_donusumler.pdb
+C:\Users\kadir\source\repos\Tip_donusumler\obj\Debug\net5.0\Tip_donusumler.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\Tip_donusumler\obj\Debug\net5.0\Tip_donusumler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\source\repos\Tip_donusumler\obj\Debug\net5.0\Tip_donusumler.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\Tip_donusumler\obj\Debug\net5.0\Tip_donusumler.AssemblyInfo.cs
+C:\Users\kadir\source\repos\Tip_donusumler\obj\Debug\net5.0\Tip_donusumler.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\Tip_donusumler\obj\Debug\net5.0\Tip_donusumler.dll
+C:\Users\kadir\source\repos\Tip_donusumler\obj\Debug\net5.0\ref\Tip_donusumler.dll
+C:\Users\kadir\source\repos\Tip_donusumler\obj\Debug\net5.0\Tip_donusumler.pdb
+C:\Users\kadir\source\repos\Tip_donusumler\obj\Debug\net5.0\Tip_donusumler.genruntimeconfig.cache

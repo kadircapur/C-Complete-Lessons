@@ -1,0 +1,16 @@
+C:\Users\kadir\source\repos\Operatorlerr\bin\Debug\net5.0\Operatorlerr.exe
+C:\Users\kadir\source\repos\Operatorlerr\bin\Debug\net5.0\Operatorlerr.deps.json
+C:\Users\kadir\source\repos\Operatorlerr\bin\Debug\net5.0\Operatorlerr.runtimeconfig.json
+C:\Users\kadir\source\repos\Operatorlerr\bin\Debug\net5.0\Operatorlerr.runtimeconfig.dev.json
+C:\Users\kadir\source\repos\Operatorlerr\bin\Debug\net5.0\Operatorlerr.dll
+C:\Users\kadir\source\repos\Operatorlerr\bin\Debug\net5.0\ref\Operatorlerr.dll
+C:\Users\kadir\source\repos\Operatorlerr\bin\Debug\net5.0\Operatorlerr.pdb
+C:\Users\kadir\source\repos\Operatorlerr\obj\Debug\net5.0\Operatorlerr.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\Operatorlerr\obj\Debug\net5.0\Operatorlerr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\source\repos\Operatorlerr\obj\Debug\net5.0\Operatorlerr.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\Operatorlerr\obj\Debug\net5.0\Operatorlerr.AssemblyInfo.cs
+C:\Users\kadir\source\repos\Operatorlerr\obj\Debug\net5.0\Operatorlerr.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\Operatorlerr\obj\Debug\net5.0\Operatorlerr.dll
+C:\Users\kadir\source\repos\Operatorlerr\obj\Debug\net5.0\ref\Operatorlerr.dll
+C:\Users\kadir\source\repos\Operatorlerr\obj\Debug\net5.0\Operatorlerr.pdb
+C:\Users\kadir\source\repos\Operatorlerr\obj\Debug\net5.0\Operatorlerr.genruntimeconfig.cache
